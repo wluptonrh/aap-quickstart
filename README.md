@@ -1,6 +1,6 @@
 # Ansible Automation Platform 2.5 QuickStart - Single Node Containerized Installer
 
-##Overview 
+## Overview 
 This is an unofficial guide to assist with installing the Ansible Automation Platform on a single node using the containerized installer. 
 
 There are currently three methods to install the Ansible Automation platform components
