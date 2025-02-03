@@ -182,7 +182,7 @@ Helpful Links
 3. Run the installer
 
     ```shell
-    ansible-playbook -i <inventory_file_name> ansible.containerized_installer.install
+    ansible-playbook -i <inventory_file_name> ansible.containerized_installer.install -K -vvv
     ```
 
 
