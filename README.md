@@ -182,6 +182,7 @@ Helpful Links
 3. Run the installer
 
     ```shell
+    export ANSIBLE_COLLECTIONS_PATH="${PWD}"/collections
     ansible-playbook -i <inventory_file_name> ansible.containerized_installer.install -K -vvv
     ```
 
