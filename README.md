@@ -92,7 +92,7 @@ Helpful Links
     - You do have the option to leverage ansible-vault to secure sensitive information in your inventory file ([docs with examples](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html/planning_your_installation/about_the_installer_inventory_file#proc-securing_secrets_in_inventory_planning))
 
     ```shell
-    vim inventory
+    vim inventory-growth
     ```
     
     ```ini 
