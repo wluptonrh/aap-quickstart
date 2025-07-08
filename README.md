@@ -17,6 +17,7 @@ The containerized installer will deploy the following AAP components as containe
 - Database
 
 Helpful Links
+- [Unofficial (but helpful) AAP Wiki](https://github.com/naps-sled-sas/aap_wiki)
 - [Planning your AAP Installation](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html-single/planning_your_installation/index#planning-installation)
 - [AAP Containerized Installer](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html/containerized_installation/index)
 - [Video: AAP Containerized Installer Walkthrough](https://www.youtube.com/watch?v=wUcCeyrCvyg&t=24s&ab_channel=RedHatAnsibleAutomation)
