@@ -32,7 +32,7 @@ Helpful Links
 **OS Prerequisites**
 - A host VM running RHEL 9.2 or later
 - A non-root user for the Red Hat Enterprise Linux host, with sudo or other Ansible supported privilege escalation (sudo recommended). This user is responsible for the installation of containerized Ansible Automation Platform.
-- The appropriate network ports are open if a firewall is in place. For more information about the ports to open, see [Container topologies](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html/tested_deployment_models/container-topologies#network_ports_5) in *Tested deployment models*.
+- The appropriate network ports are open if a firewall is in place. For more information about the ports to open, see [Container topologies](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html/tested_deployment_models/container-topologies) in *Tested deployment models*.
 
 ## Step 1: Preparing your RHEL Host
 
